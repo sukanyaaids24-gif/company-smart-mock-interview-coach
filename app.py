@@ -1,4 +1,6 @@
+from dotenv import load_dotenv
 
+load_dotenv()
 import streamlit as st
 from src.agents import InterviewCoach
 from src.data_store import initialize_vector_store
