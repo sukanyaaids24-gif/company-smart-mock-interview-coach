@@ -1,0 +1,12 @@
+
+company,role,question,expected_points,feedback_pattern
+Lufthansa Technik,Customs Executive,What is customs compliance?,Customs laws; accurate declarations; duties and taxes,Check understanding of customs regulations
+Lufthansa Technik,Customs Executive,What is HS Code?,Product classification; Harmonized System; tariff rates,Check classification knowledge
+Lufthansa Technik,Customs Executive,What is US Goods Returned?,Goods previously exported and returned; eligibility; documentation,Check understanding of USGR
+Lufthansa Technik,Trade Compliance Analyst,What is HTSUS?,US Harmonized Tariff Schedule; product classification; duty rates,Check tariff knowledge
+Lufthansa Technik,Trade Compliance Analyst,What is Incoterms?,Buyer and seller responsibilities; transportation; risk transfer,Check trade terminology
+Airbus,Supply Chain Analyst,What is supply chain management?,Planning; sourcing; logistics; delivery,Check supply chain understanding
+Airbus,Procurement Executive,What is a purchase order?,Supplier; quantity; price; delivery terms,Check procurement knowledge
+Pratt and Whitney,Claims Analyst,What is warranty claim adjudication?,Claim validation; contract review; supporting documents,Check analytical skills
+General,HR Interview,Tell me about yourself,Education; skills; experience; career goals,Check communication skills
+General,HR Interview,What are your strengths and weaknesses?,Self awareness; examples; improvement plan,Check personal reflection
